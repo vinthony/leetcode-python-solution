@@ -1,2 +1,2 @@
-# leecode-python-solution
-my leecode python solution
+# leetcode-python-solution
+my leetcode python solution
